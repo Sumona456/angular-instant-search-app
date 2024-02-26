@@ -13,7 +13,7 @@ import { CommonModule } from '@angular/common';
 })
 
 export class AppComponent {
-  title = 'instant-search';
+  title = 'Instant Search App';
 
   currentDate = new Date();
 
